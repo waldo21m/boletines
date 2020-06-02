@@ -177,3 +177,12 @@ th {
     height: 500px;
   }
 }
+
+@media (max-width: 992px) {
+  .main-image {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
